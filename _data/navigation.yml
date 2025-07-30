@@ -20,10 +20,10 @@ main:
   - title: "数学建模" # default : Portfolio
     url: /portfolio/
         
-  - title: "博客" # default : Blog Posts
+  - title: "博優个客" # default : Blog Posts
     url: /year-archive/
     
-  - title: "运筹与优化" # default : CV
+  - title: "运筹优化" # default : CV
     url: /cv/
     
   # - title: "CV"
