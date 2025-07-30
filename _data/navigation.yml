@@ -8,19 +8,19 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "深度学习" # default : Publications
     url: /publications/
 
-  - title: "Talks"
+  - title: "实际应用" # default : Talks
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "技能技术" # default : Teaching
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "数学建模" # default : Portfolio
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "博客" # default : Blog Posts
     url: /year-archive/
     
   - title: "运筹与优化" # default : CV
