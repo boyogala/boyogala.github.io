@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN" # default en-US
 site_theme               : "default"
 title                    : "王贼臣"
 title_separator          : "-"
