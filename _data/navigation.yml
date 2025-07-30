@@ -23,11 +23,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "运筹与优化---基于科学计算语言Julia" # default : CV
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "最优控制---基于科学计算语言Julia" # default : Guider
     url: /markdown/
