@@ -14,20 +14,20 @@ main:
   - title: "实际应用" # default : Talks
     url: /talks/    
 
-  - title: "技能技术" # default : Teaching
+  - title: "运筹优化" # default : Teaching
     url: /teaching/    
     
   - title: "数学建模" # default : Portfolio
     url: /portfolio/
         
-  - title: "博優个客" # default : Blog Posts
+  - title: "最优控制" # default : Blog Posts
     url: /year-archive/
     
-  - title: "运筹优化" # default : CV
-    url: /cv/
+  # - title: "运筹优化" # default : CV
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "最优控制" # default : Guider
-    url: /markdown/
+  # - title: "最优控制" # default : Guider
+  #  url: /markdown/
