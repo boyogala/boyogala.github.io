@@ -11,7 +11,7 @@ main:
   - title: "深度学习" # default : Publications
     url: /publications/
 
-  - title: "实际应用" # default : Talks
+  - title: "群体智能" # default : Talks
     url: /talks/    
 
   - title: "运筹优化" # default : Teaching
