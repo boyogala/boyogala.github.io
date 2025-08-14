@@ -15,5 +15,4 @@ redirect_from:
 
 
 
-
-<a href="https://chatwise.app/?atp=8jxjbi">推荐使用的AI桌面客户端：ChatWise - The second fastest AI chatbot™</a>
+ <a href="https://chatwise.app/?atp=8jxjbi">推荐使用的AI桌面客户端AI Desktop Client：ChatWise - The second fastest AI chatbot™</a>
